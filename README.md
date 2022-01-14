@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de Frango :ckicken:
+- Strogonoff de Frango :chicken:
 - Bolo Formigueiro :ant:
 - Pavê

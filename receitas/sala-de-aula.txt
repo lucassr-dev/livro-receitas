@@ -1,0 +1,25 @@
+
+Organização após a chegada de mais onze alunos e reorganização pelo professor, o professor organizou
+as fileiras tanta na horizontal quanto na vertical em uma formação de 4x2.
+
+P P M P M P
+M P M M P M
+M M M P M P
+M P P M P P
+P M M P M M
+M P P P M P
+
+Após a troca de alunos durante a ausência do professor:
+
+P P M P M P
+M P M M P M
+M M M P M P
+M P M M P P
+P M M P P M
+M P P P M P
+
+
+Analisando a situação, podemos ver que houve uma troca na quinta fileira de cima para baixo, onde um aluno que gosta de Matemática (M) trocou de lugar com um aluno que gosta de Português (P) na quarta fileira. Ao verificar as fileiras tanto na horizontal, quanto na vertical e consultarmos se todas estão na formação 4x2, verificamos que na posição 3x3 e na 5x5 ouve uma alteração, fazendo com que suas fileiras ficassem em numeros ímpares. 
+
+
+Essa análise permite ao professor descobrir qual cadeira teve a troca e qual a disciplina de cada um dos alunos envolvidos na troca, considerando a configuração original e a organização após a reorganização.
